@@ -242,7 +242,6 @@ class _BonAppetitCreateAccountScreenState
 
                                     const SizedBox(width: 10),
 
-                                    // Chef icon
                                     Container(
                                       width: 28,
                                       height: 28,
