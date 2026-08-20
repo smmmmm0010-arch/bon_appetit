@@ -130,7 +130,6 @@ class _HomeHeaderState extends State<HomeHeader> {
           ),
         ),
 
-        // نتائج البحث
         if (searchText.isNotEmpty && searchResults.isNotEmpty)
           Container(
             margin: const EdgeInsets.only(top: 8),
